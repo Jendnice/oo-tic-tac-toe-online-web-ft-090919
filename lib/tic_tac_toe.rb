@@ -123,7 +123,7 @@ class TicTacToe
  
   def play 
     when over? != true 
-    do turn
+    turn
     end 
     if  won?
       "Congratulations #{winner}!"
