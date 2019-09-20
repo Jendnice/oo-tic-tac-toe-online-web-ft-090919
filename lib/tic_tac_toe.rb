@@ -130,7 +130,7 @@ class TicTacToe
       "Cat's Game!"
     else 
       play 
-    end 
+    
     end 
   end 
    
